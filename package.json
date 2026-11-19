@@ -1,0 +1,12 @@
+{
+  "name": "notes-management-system",
+  "version": "1.0.0",
+  "description": "Assignment 14 - TypeScript OOP: Simple Notes Management System",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js"
+  }
+}
